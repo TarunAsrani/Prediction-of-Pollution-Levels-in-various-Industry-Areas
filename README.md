@@ -1,4 +1,4 @@
-# Indian Air Pollution Data Analysis
+#Air Pollution Data Analysis
 
 ![](img.jpg)
 
